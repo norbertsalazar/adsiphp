@@ -1,5 +1,5 @@
 <?php
-define("ALUMNO", "Norberto Salazar");
+define("ALUMNO", "Norberto ");
 define("MATERIA", "INGLES");
 $nota1 = 0.15;
 $nota2 = 0.20;
